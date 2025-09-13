@@ -16,8 +16,8 @@ To ensure that all evidence is safe, all the collected files upon capture and ev
 
 ## Evidence Links
 
-Incident & Evidence Notes PDF
-Weekly Reflection PDF
+- [In class Activity.pdf](In%20class%20Activity-1.pdf)
+- [Weekly Reflection Week 4.pdf](Weekly%20Reflection%20Week%204.pdf)
 
 ## Reflection: 
 Overall, I would love to go back and lookover more NIST policies in the future. Something I would use to further improve how I would react to incidents in technology and maintaining security for not only my personal information but also other people's information. There is still the concern of how much information is safe to redact before it becomes useless to use in an investigation? Would it look like the evidence was altered?
